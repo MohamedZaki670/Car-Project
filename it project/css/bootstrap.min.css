@@ -1,0 +1,61 @@
+
+
+.bmw1{
+    width: 390px;
+    margin-inline: 86px;
+    height: 198px;
+}
+.bmw2{
+    width: 390px;
+    margin-inline: 780px;
+    margin-top: -203px;
+    margin-bottom: 20px;
+    height: 200px;
+}
+.brand-cars{
+    margin-left:45%;
+    font-size: 25px;
+}
+.benz-logo{
+    margin-top: 40px;
+}
+.benz1{
+    width:390px ;
+    margin-inline: 86px;
+}
+.benz2{
+    width: 390px;
+    margin-inline: 780px;
+    margin-top: -203px;
+    margin-bottom: 20px;
+    height: 200px;
+}
+.audi-photos{
+    margin-top: 50px;
+}
+.audi1{
+    width:390px ;
+    margin-inline: 86px;
+}
+.audi2{
+    width: 390px;
+    margin-inline: 780px;
+    margin-top: -203px;
+    margin-bottom: 20px;
+    height: 200px;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+.dark{
+    background-color:black ;
+    border: none;
+	color: #ffffff;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px 25px 25px 25px;
+	font-size: 15px;
+    padding: 1px 4px;
+    cursor: pointer;
+}

@@ -1,0 +1,142 @@
+body {
+    width: 100%;
+    background-color: papayawhip;
+}
+.A1 {
+    width: 80%;
+    margin-left: 6%;
+    font-size: 20px;
+
+}
+.a-1,
+.a-3 {
+    width: 80%;
+    margin-left: 50px;
+    line-height: 1.7;
+    font-size: 18px;
+}
+.img1 {
+    margin-top: 24px;
+    width: 90%;
+    margin-left: 5%;
+}
+.A2,
+.A3,
+.A4 {
+    font-size: 20px;
+    width: 80%;
+    margin-left: 6%;
+}
+.a-2 {
+    width: 50%;
+    font-size: 18px;
+}
+.a-2-2 {
+    font-size: 18px;
+    width: 48%;
+    margin-left: 52%;
+    margin-top: -8%;
+
+}
+.b1 {
+    width: 35%;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 70px;
+    line-height: 2;
+}
+.b2 {
+    margin-left: 70px;
+    font-size: 15px
+}
+.img2 {
+    margin-left: 50%;
+    margin-top: -24%;
+    width: 60%;
+}
+.bloock {
+    width: 50%;
+    margin-left: 47%;
+    margin-top: -25%;
+}
+.img3 {
+    margin-top: 10%;
+    margin-left: 3%;
+}
+.vid {
+    width: 100%;
+    margin-bottom: 10%;
+    margin-left: 14%;
+    margin-top: 25%;
+}
+.table {
+    width: 70%;
+    margin-bottom: 25px;
+}
+.a-4 {
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin-top: 7px;
+
+
+}
+.head{
+	width: 100%;
+	background-color:#443345;
+    margin: -8px;
+}
+.head a{
+    text-decoration: none;
+    color: white;
+}
+ li{
+float: right;
+display: inline;
+padding: 0 20px 0 20px;
+margin-top: -4;
+margin-bottom: 16;
+
+
+}
+h3{
+    margin: 0;
+}
+.site-brand {
+	font-family: 'Oleo Script Swash Caps', cursive;
+	color: #ffffff;
+	font-size: 26px;
+	float: left;
+}
+
+
+
+
+
+
+.mynav {
+	transition: all 0.8s ease-in;
+	background: rgb(68, 51, 68) none repeat scroll 0% 0%;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+.dark{
+    background-color:black ;
+    border: none;
+	color: #ffffff;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px 25px 25px 25px;
+	font-size: 15px;
+    padding: 1px 4px;
+    margin-bottom: 6px;
+    margin-top: -4px;
+}

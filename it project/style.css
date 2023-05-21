@@ -1,0 +1,243 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	font-family: 'cars Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+/*-----Header & Banner Starts-------*/
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin-top: 7px;
+
+
+}
+.head{
+	width: 100%;
+	background-color:#443345;
+}
+.head a{
+    text-decoration: none;
+    color: white;
+}
+ li{
+float: right;
+display: inline;
+padding: 0 20px 0 20px;
+
+
+
+}
+h3{
+    margin: 0;
+}
+.site-brand {
+	font-family: 'Oleo Script Swash Caps', cursive;
+	color: #ffffff;
+	font-size: 26px;
+	float: left;
+}
+
+
+
+
+
+
+.mynav {
+	transition: all 0.8s ease-in;
+	background: rgb(68, 51, 68) none repeat scroll 0% 0%;
+}
+.banner {
+	background-attachment: fixed;
+	background-color: #645862;
+	background-image: url(images/background.jpg);
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	cursor: default;
+	text-align: center;
+	width: 100%;
+	float: left;
+}
+.the-welcome {
+	padding: 280px 0 220px;
+	background-color: RGBA(15, 5, 20, 0.84);
+}
+.banner-text h2 {
+	font-size: 50px;
+}
+.banner-text h2 span {
+	color: #EB233C;
+}
+.banner-text p {
+	font-size: 15px;
+}
+.banner-button {
+	border: rgba(204, 204, 204, 0.18) 1px solid;
+	padding: 12px 35px;
+	color: #ccc;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px 25px 25px 25px;
+	font-size: 15px;
+	margin-top: 50px;
+}
+.banner-button:hover {
+	background-color: #ccc;
+	text-decoration: none;
+	color: #000;
+}
+
+/*-----Header & Banner Ends-------*/
+
+/*-----space Starts-------*/
+.space {
+	padding: 100px 0px;
+	float: left;
+	width: 100%;
+}
+
+
+/*-----space Ends-------*/
+
+
+/*-----Portfolio or cars Starts-------*/
+
+.portfolio {
+	padding: 0px 0;
+	background-color: rgba(235, 213, 235, 0.26);
+	float: left;
+	width: 100%;
+	margin-top: -100px;
+}
+.img-portfolio {
+	margin: 0 auto;
+	width: 200px;
+}
+
+
+
+
+
+/*-----About Starts-------*/
+.about {
+	padding: 50px 0px;
+	width: 100%;
+	float: left;
+}
+.about h3 {
+	margin-top: 0px;
+	margin-bottom: 50px;
+	border-bottom: 2px solid #EB233C;
+	display: inline-block;
+	line-height: 35px;
+	margin-left: 50%;
+}
+.about-text p {
+	font-size: 15px;
+	font-weight: 300;
+}
+.counter-item h5 {
+	margin: 0px !important;
+	font-family: 'cars Sans', sans-serif;
+}
+.timer {
+	color: #EB233C;
+	font-size: 50px;
+	font-weight: 200;
+}
+.block {
+	padding-left: 0px !important;
+}
+/*-----About Ends-------*/
+
+
+/*-----Contact Starts-------*/
+.contact {
+	background-color: rgba(204, 204, 204, 0.15);
+	padding: 50px 0px;
+	float: left;
+	width: 100%;
+}
+.contact h3 {
+	margin-top: 0px;
+	margin-bottom: 50px;
+	border-bottom: 2px solid #EB233C;
+	display: inline-block;
+	line-height: 35px;
+	margin-left: 50%;
+}
+.contact-form {
+	margin-top: 45px;
+}
+.form-control {
+	display: block;
+	width: 100%;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857;
+	color: #242424;
+	background-color: transparent;
+	background-image: none;
+	border: none;
+	border-radius: 0px;
+	box-shadow: none;
+	transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+	border-bottom: 2px solid #EB233C;
+	resize: none;
+	margin-top: 25px;
+}
+.form-control:hover, .form-control:focus {
+	box-shadow: none;
+	border-bottom: 2px solid #242424;
+}
+
+.contact-button {
+	border: none;
+	padding: 12px 35px;
+	color: #ffffff;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px 25px 25px 25px;
+	font-size: 15px;
+	background-color: #EB233C;
+	margin-top: 30px;
+	margin-left: 50%;
+}
+.address {
+	color: #242424;
+	margin-top: 70px;
+}
+.address h4 {
+	color: #EB233C;
+	font-size: 22px;
+}
+.address p {
+	font-size: 16px;
+	font-weight: 500;
+}
+.email i {
+	color: #EB233C;
+	padding-right: 10px;
+	font-weight: 400;
+	font-size: 16px;
+}
+.email {
+	padding-top: 15px;
+}
+footer{
+	height:10%;
+	background-color:#443345 ;
+}
+
+

@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>My Car</title>
+<link rel="stylesheet" href="css/master.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href='https://fonts.googleapis.com/css?family=cars+Sans:400,100,200,300,500,600,800,900' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+<div class="head" id="head">
+  <nav>
+    <div class="container">
+      <div class="site-name">
+        <a class="site-brand" href="#">My Car</a> </div>
+      <div>
+        <ul>
+          <li><button onclick="myFunction()" class="dark">dark mode</button></li>
+          <li class="active"><a href="#contact">Contact Us</a></li>
+          <li><a href="#about">About us</a></li>
+          <li><a href="#cars">Brands</a></li>
+          <li><a href="#banner">Home</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+<div class="banner" id="banner">
+  <div class="the-welcome">
+    <div class="container">
+        <div class="col-md-12">
+          <div class="banner-text">
+            <h2>Welcome to <span>My</span>Car</h2>
+            <p>we will help you to know the best car for you</p>
+             </div>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="space">
+  <div class="container">
+  </div>
+</div>
+<div  class="portfolio">
+  <div class="container">
+      <div class="col-lg-10 col-lg-offset-1 text-center text">
+       <div class="brand-cars" id="cars"><h3>best cars</h3></div>
+          <div class="bmw-photos">
+            <div class="bmw-logo"> <a href="../bmw/index.html"> <img class="img-portfolio " src="images/bmw.png"> </a>
+              <img src="../imges/bmw 1.jpg" alt="bmw1" class="bmw1">
+              <img src="../imges/bmw 2.jpg" alt="bmw2" class="bmw2"> </div>
+          </div>
+          <div class="benz-photos">
+            <div class="benz-logo"> <a href="../benz/index.html"> <img class="img-portfolio " src="images/benz.png"> </a> 
+            <img src="../imges/benz 1.jpg" alt="benz1" class="benz1">
+            <img src="../imges/benz 2.jpg" alt="benz2" class="benz2">
+            
+            </div>
+          </div>
+          <div class="audi-photos">
+            <div class="audi-logo"> <a href="../audi/index.html"> <img class="img-portfolio " src="../imges/audi logo.png"> </a> 
+            <img src="../imges/audi 1.jpg" alt="audi1" class="audi1">
+            <img src="../imges/audi 2.jpg" alt="audi2" class="audi2">
+            </div>
+          </div>
+        </div>
+  </div> 
+</div>
+<div class="about" id="about">
+  <div class="container">
+      <div class="col-md-12 text-center">
+        <h3>About Us</h3>
+      </div>
+        <div class="about-text">
+          <p>We are the best site for choosing your new car. We show you the best types of cars with all their features and capabilities to give you the pleasure of choosing your car. If you do not find your ideal car, you can contact us to help you </p>
+        </div>
+  </div>
+</div>
+<div class="contact" id="contact">
+  <div class="container">
+          <h3>Contact Us</h3>
+        <div class="contact-form">
+          <form role="form">
+            <div class="col-md-6">
+              <input type="text" class="form-control" id="name" placeholder="Name">
+            </div>
+            <div class="col-md-6">
+              <input type="email" class="form-control" id="email" placeholder="Email">
+            </div>
+            <div class="col-md-12">
+              <textarea class="form-control" placeholder="Message" rows="6"></textarea>
+            </div>
+            <div class="col-md-12 text-center">
+              <button type="submit" class="contact-button">Send Message</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  function myFunction() {
+     var element = document.body;
+     element.classList.toggle("dark-mode");
+  }
+  </script>
+</body>
+</html>

@@ -1,0 +1,129 @@
+body{
+    width: 100%;
+    
+    background-color: papayawhip;
+}
+
+.A1 {padding: 0px 10px;
+
+margin-left: 44px;
+}
+    
+
+
+.A2 {
+    width: 80%;
+    margin-left: 50px;
+    line-height: 1.7;
+    font-size: 17px;
+}
+.img1
+ {
+    text-align: center;
+    padding: 20px 10px;
+    width: 100%;
+    
+    
+    
+}
+.A3,
+.A4,
+.A5 {
+    padding: 0px 10px;
+    margin-left: 50px;
+
+}
+
+.a_3,
+.a_4,
+.a_5 {
+    width: 80%;
+    margin-left: 50px;
+    line-height: 1.7;
+    font-size: 17px;
+    
+}
+
+
+.vid {
+   /*  margin-left: 80px; */
+    text-align: center;
+    margin-right: 63px;
+}
+.img2{
+
+    width: 390px;
+    margin-left: 13%;
+
+
+}
+.img3{
+    width: 390px;
+   margin-left: 494px;
+    margin-top: -179px;
+    margin-bottom: 20px;
+ 
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin-top: 7px;
+
+
+}
+.head{
+	width: 100%;
+	background-color:#443345;
+    margin: -8px;
+}
+.head a{
+    text-decoration: none;
+    color: white;
+}
+ li{
+float: right;
+display: inline;
+padding: 0 20px 0 20px;
+margin-top: -4;
+margin-bottom: 16;
+
+
+}
+h3{
+    margin: 0;
+}
+.site-brand {
+	font-family: 'Oleo Script Swash Caps', cursive;
+	color: #ffffff;
+	font-size: 26px;
+	float: left;
+}
+
+
+
+
+
+
+.mynav {
+	transition: all 0.8s ease-in;
+	background: rgb(68, 51, 68) none repeat scroll 0% 0%;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+.dark{
+    background-color:black ;
+    border: none;
+	color: #ffffff;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px 25px 25px 25px;
+	font-size: 15px;
+    padding: 1px 4px;
+    margin-bottom: 6px;
+    margin-top: -4px;
+}

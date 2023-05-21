@@ -1,0 +1,125 @@
+body{
+    background-image: url(../../back\ ground\ benz.jpg);
+}
+p{   
+     font-size: xx-large;
+    color: lightpink;
+    font-family: fantasy;
+    width: max-content;
+    margin-left: 40px;
+}
+.div0{
+    background-color: RGBA(15, 5, 20, 0.84);
+    margin-right: -300px;
+    height: 400px;
+    margin-left: -8px;
+    margin-top: 60px;
+}
+.i{
+    width: 390px;
+    margin-top: 56px;
+   
+}
+.div1{
+    margin-left: 56px;
+    margin-top: 30px;
+}
+.icat{
+    margin-left: 120px;
+    font-size: 30px;
+    color: lightpink;
+    margin-top: 24px;
+}
+.x7{
+    width: 390px;
+    margin-top: 35px;
+    height: 217px;
+    
+}
+.div2{
+    margin-left: 533px;
+    margin-top: -317px;
+    margin-bottom: 208px;
+}
+.xcat{
+    color: lightpink;
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: 24px;
+}
+.z{
+    width: 390px;
+    
+}
+.div3{
+    margin-left: 1000px;
+    margin-top: -522px;
+}
+.zcat{
+    color: lightpink;
+    font-size: 30px;
+    margin-left: 145px;
+    margin-top: 24px;
+}
+
+.choose{
+    margin-left: 35%;
+    font-size: 30px;
+    font-family: 'Oleo Script Swash Caps';
+
+}
+.your{
+    color: tomato;
+}
+/* the header */
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin-top: -7px;
+
+
+}
+.head{
+    padding-right: 309px;
+    width: 100%;
+    background-color: #443345;
+    margin: -8px;
+}
+.head a{
+    text-decoration: none;
+    color: white;
+}
+ li{
+float: right;
+display: inline;
+padding: 0 20px 0 20px;
+margin-top: -4;
+margin-bottom: 16;
+
+
+}
+h3{
+    margin: 0;
+}
+.site-brand {
+	font-family: 'Oleo Script Swash Caps', cursive;
+	color: #ffffff;
+	font-size: 26px;
+	float: left;
+}
+
+
+
+
+
+
+.mynav {
+	transition: all 0.8s ease-in;
+	background: rgb(68, 51, 68) none repeat scroll 0% 0%;
+}
+a{
+    text-decoration: none;
+}

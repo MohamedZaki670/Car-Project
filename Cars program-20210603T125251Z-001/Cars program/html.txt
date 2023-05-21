@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)file:///D:/bookstore/cars%20program.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="UFT-8">
+        <title>Information about Mercedes </title>
+        
+        <link rel="stylesheet" href="file:///D:/bookstore/cars%20program.html">
+        <link rel="preconnect" href="https://fonts.gstatic.com/">
+        <link href="./Information about Mercedes_files/css2" rel="stylesheet">
+        <link href="./Information about Mercedes_files/css2(1)" rel="stylesheet">
+
+        <!-- Meta tags-->
+        <meta name="elzero" content="v1.0">
+        <meta name="description" content="This is my car ">
+
+        <!-- Page style-->
+        <style>
+
+            .header {
+                font-family: 'EB Garamond', serif;
+                font-size: 50px;
+            }
+            .sub-header {
+                font-family: 'EB Garamond', serif;
+                font-size: 40px;
+            }
+            .paragraph {
+                font-family: 'Alegreya', serif;
+                font-size: 30px;
+            }
+            .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            }
+            table {
+            border-collapse: separate;
+            border-spacing: 50px 0;
+            margin-left: auto;
+            margin-right: auto;
+            }
+            td {
+            padding: 100px 0;
+            }
+        </style>
+        <script></script>
+            
+    </head> 
+
+    <body>
+
+        <div class="header" style="text-align: center;">
+            <h1>
+                Mercedes-Benz
+            </h1>
+        </div>
+
+        <p style="text-align: center; font-size: 30px; font-family: &#39;EB Garamond&#39;, serif; margin-top: -80px; margin-left: 10%;">
+        The best or nothing.
+        </p>
+
+
+        <div class="sub-header">
+            <h1>
+                Vehicle Highlights
+            </h1> 
+        </div>
+
+        <div class="paragraph">
+            <p>
+                Many years ago, engineers in Graz developed a new type of DNA.
+                <br>
+                The DNA of an off-road vehicle: iconic, robust and virtually indestructible. They designed parts which continue to perform the very same functions to this day.
+                        Components which have given rise to a highly distinct character over generations.      
+            </p>
+        </div>
+
+        <table>
+            <tbody><tr> 
+                <td>
+                    <img src="./Information about Mercedes_files/2020-mercedes-bens-gls-class.jpg" alt="">
+                </td>
+            </tr>
+        </tbody></table>
+
+        <div class="sub-header">
+            <h1>
+                Design
+            </h1> 
+        </div>
+
+        <div class="paragraph">
+            <p>
+                The new GLE - a picture of poise and composure.
+                <br>
+                Sensual surfaces, muscular forms and clear lines define the design of the new GLE. It is hard to imagine a more elegant and dynamic expression of power.
+                Chase it all: fast in the daily routine. Even faster at the weekend.
+                The new performance SUV from Mercedes-AMG.
+                Sportiness meets off-road capability meets everyday practicality - the Mercedes-AMG GLE 53 4MATIC+ combines apparent opposites into an exciting whole. The new AMG-specific radiator trim in A-shape with vertical struts makes it clear right away that this vehicle belongs to the AMG model family. Its brawny power and unbridled sporty character provide for off-road thrills, while its spaciousness and easy handling make it an ideal everyday vehicle in the city.
+            </p><p>
+            <img src="./Information about Mercedes_files/image.MQ6.0.20190403151927.jpeg" alt="">
+
+        </p></div>
+
+        <div class="sub-header">
+            <h1>
+                1) Touch control concept
+            </h1> 
+        </div>
+
+        <div>
+
+                    <p>
+                        <br>
+                        MBUX offers users maximum freedom for controlling all functions in the way most comfortable and convenient to them. Whether using voice control or intuitive touch functions. The new GLE comes with the option of a multimedia touch display. There is also a touchpad integrated in the centre console, which responds to single and multi-finger gestures as well as handwriting. Furthermore, the displays can be controlled using Touch Control buttons on the steering wheel.
+                    </p>
+            
+        
+
+        <div class="sub-header">
+            <h1>
+                2) Natural voice control
+            </h1> 
+        </div>
+          <p>
+
+            <br>
+        "Hey Mercedes." These two initial words start the natural, intuitive LINGUATRONIC voice control system which comes as standard. It reacts to almost every word. The system can even process indirect speech – the air conditioning will respond, e.g. to "I feel cold" and increase the temperature setting. At the same time the voice control also has learning capability. It attunes itself to your voice and thus understands you better.
+            </p>  
+        <table>
+            <tbody><tr>
+                <td>
+                    <img src="./Information about Mercedes_files/image.MQ6.8.20210420150813.jpeg" alt="" width="1200" height="800">
+                </td>
+                <td>
+                    <img src="./Information about Mercedes_files/image.MQ6.8.20210420150831.jpeg" alt="" width="1200" height="800">
+                </td>
+            </tr>    
+        </tbody></table>    
+        </div>
+
+        <div>
+            <h2>
+                <u>
+                    E-ACTIVE BODY CONTROL fully active suspension.
+                </u>
+            </h2> 
+           <p>
+               </p><li>
+
+             <br>
+                    With the new E-ACTIVE BODY CONTROL fully active air suspension, we are pooling our most innovative and intelligent suspension technologies to create a mesmerising driving experience.
+
+        In "Curve" mode, the vehicle can actively lean into a bend. This minimises the transverse force and tangibly increases comfort and dynamism. In "Comfort" mode, the ROAD SURFACE SCAN with stereo camera scans the road ahead of the vehicle. The suspension struts are then activated so as to substantially reduce the body movements when driving over bumps in the road. There are two other modes to choose from: "Sport" and "Offroad".
+    </li>  
+    <p></p>
+        <img src="./Information about Mercedes_files/image.MQ6.12.20190403151821.jpeg" alt="">
+        </div>
+
+        <div class="sub-header">
+            <h1>
+                Safety
+            </h1> 
+        </div>
+        <p>
+        
+             Reacts to external hazards with inner composure.
+           <br>
+        The new GLE even takes the strain off the driver when it comes to manoeuvring with a trailer.. Exemplary safety with Mercedes-Benz Intelligent Drive systems.
+           In the rush hour, during a long drive at night or on an unfamiliar route, your GLE noticeably takes the strain out of driving, particularly in stressful situations. This is based on a concept that makes every journey in a Mercedes-Benz safer and unique: Mercedes-Benz Intelligent Drive. Because the time you spend behind the wheel is your time. Time for relaxation. Time to replenish your energy. So that, first and foremost, you reach your destination safely, but are also more relaxed when you get there.
+           Allow us to smooth the way for you.
+           The new GLC not only adapts to the road surface, it also responds to your requirements: the AGILITY CONTROL suspension, configured for outstanding ride comfort, comes as standard. Also available: 4MATIC all-wheel drive and the exceptionally sporty DYNAMIC BODY CONTROL suspension with steel springs and adjustable damping. Absolute highlight: the AIR BODY CONTROL air suspension for exceptional driving stability coupled with outstanding comfort and agility.
+        </p>       
+            <div> 
+            <table>
+                <tbody><tr> 
+                    <td>
+                        <img src="./Information about Mercedes_files/image.MQ6.8.20190403152016.jpeg" width="1200" height="800">
+                    </td>
+                    <td>   
+                        <img src="./Information about Mercedes_files/image.MQ6.8.20190517154322.jpeg" width="1200" height="800">
+                    </td>
+            </tr>
+        </tbody></table>
+    </div>
+        <p>
+
+        </p>
+        <p>
+
+        </p>
+    
+    <div>
+        <table>
+            <tbody><tr>
+                <td>
+                    <img src="./Information about Mercedes_files/image.MQ6.8.20210420150745.jpeg" width="800" height="500">
+                    <h1>
+                        <u>
+                          Display styles
+                        </u>
+                    </h1>
+                    <h2>
+                        <ul>
+                            <li>
+                              You can customise the design and the entire look and feel of the
+                              <p>
+                                  Widescreen Cockpit. There is a choice of four display styles:
+                              </p>
+                              <p>
+                                  "Classic", "Sport", "Progressive" and "Subtle". The chosen style 
+                              </p>
+                              <p>
+                                tangibly characterises the interior atmosphere, especially in
+                              </p>
+                              <p>
+                                conjunction with the optionally available ambient lighting.
+                              </p>
+                            </li>
+                        </ul>
+                    </h2>
+                </td>
+                <td>
+                    <img src="./Information about Mercedes_files/image.MQ6.8.20210420151904.jpeg" width="800" height="500">
+                    <h1>
+                        <u>
+                            ENERGIZING package plus
+                        </u>
+                    </h1>
+                    <h2>
+                        <ul>
+                            <li>
+                                The ENERGIZING package Plus is a new feature – it offers comfort    
+                              <p>
+                                at the highest level for all the senses. To this end, a maximum of
+                              </p>
+                              <p>
+                                premium features are combined with innovative intelligence.
+                              </p>
+                              <p>
+                                The exciting result: your Mercedes can vitalise and cosset you in
+                              </p>
+                              <p>
+                               specific ways. For prolonged alertness at the wheel and a very pleasant drive.
+                              </p>
+                            </li>
+                        </ul>
+                    </h2>
+                </td>
+
+                <td>
+                    <img src="./Information about Mercedes_files/image.MQ6.8.20210420142424.jpeg" width="800" height="500">
+                    <h1>
+                        <u>
+                            AMG Line:
+                        </u>
+                    </h1>
+                    <h2>
+                        <ul>
+                            <li>
+                                The expressive styling of the AMG Line exterior lends the exterior
+                              <p>
+                                a thoroughly dynamic touch. For a clear distinction from the base
+                              </p>
+                              <p>
+                                model. As such you can make a clear statement for powerful design.
+                              </p>
+                              <p>
+                                The AMG Line interior lends your vehicle a more visible and
+                              </p>
+                              <p>
+                                tangible sense of sportiness. In this way you can make a clear
+                              </p>
+                              
+                            </li>
+                        </ul>
+                    </h2>
+                </td>
+            </tr>
+        </tbody></table>
+               
+        <div style="text-align: center;">
+            <h1>
+                <u>
+                    MBUX (Mercedes-Benz User Experience).
+                </u>
+            </h1>
+            <video width="1000" height="600" controls="">
+                <source src="video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>           
+        </div>
+
+    
+</div></body></html>
